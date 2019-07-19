@@ -6,6 +6,10 @@ title: Alicante
 
 Lista de eventos que se vienen celebrando todos los años en Alicante y de los que puedes ir preparándote para participar como ponente:
 
+* [Women Techmakers](https://wtmalicante.github.io/)
+* [Semana Informática](https://www.semanainformatica.com)
+* [React Alicante](https://reactalicante.es/)
+* [VueDay](https://vueday.org/)
 
 ## Comunidades
 
